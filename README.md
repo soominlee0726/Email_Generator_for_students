@@ -9,10 +9,10 @@ This project is a simple prototype that generates polite academic emails from st
 
 ## Example
 
-**Input**
+**Input(in Korean)**
 Write a polite email to Professor Soo-min Lee about missing class next week.
 
-**Output**
+**Output(in Korean)**
 (Generated email)
 
 ## Conclusion
