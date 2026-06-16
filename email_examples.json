@@ -1,0 +1,472 @@
+[
+  {
+    "category": "absence_notice",
+    "input": "I need to inform my professor that I cannot attend today's class because I am sick.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to let you know that I will not be able to attend today's class due to illness. I apologize for any inconvenience this may cause.\n\nI will make sure to review the course materials and catch up on the lecture content as soon as possible.\n\nThank you for your understanding.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "absence_notice",
+    "input": "I have a mandatory school event that conflicts with my professor's class and need to let them know in advance.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to inform you that I will be unable to attend class on [date] due to a mandatory school event that I am required to participate in.\n\nI apologize for the inconvenience and will ensure that I review all lecture materials and complete any work I may miss. Please let me know if there is anything specific I should prepare in advance.\n\nThank you for your understanding.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "absence_notice",
+    "input": "I need to tell my professor that I missed class last week due to a family emergency and would like to know what I missed.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to apologize for my absence in last week's class. I was unable to attend due to a sudden family emergency.\n\nI would like to ask if you could briefly let me know what was covered during the class, or point me to any materials I should review. I will do my best to catch up as quickly as possible.\n\nThank you for your understanding.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "absence_notice",
+    "input": "I have a job interview scheduled at the same time as my professor's class and want to inform them ahead of time.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to let you know that I will be unable to attend class on [date] due to a job interview that was scheduled at the same time.\n\nI understand that attendance is important, and I sincerely apologize for the conflict. I will make sure to review the lecture materials and catch up on anything I miss.\n\nThank you for your understanding.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "assignment_extension",
+    "input": "I need to ask my professor for a short extension on an assignment because of unexpected personal circumstances.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask whether it would be possible to receive a short extension for the assignment due to unexpected personal circumstances.\n\nI understand the importance of submitting work on time, and I apologize for making this request. If possible, I would be grateful for a one-day extension.\n\nThank you for your consideration.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "assignment_extension",
+    "input": "I have been ill for several days and was not able to work on my assignment. I want to request an extension.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to request an extension on the upcoming assignment. Unfortunately, I have been unwell for the past few days and have not been able to make sufficient progress on the work.\n\nI would greatly appreciate a brief extension if possible. I am happy to provide documentation if needed.\n\nThank you for your consideration.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "assignment_extension",
+    "input": "Multiple assignments are due at the same time this week and I am struggling to manage my workload. I want to ask for a short extension on one of them.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask whether a short extension might be possible for the assignment due this week. I currently have several major deadlines overlapping, and I am finding it difficult to give each one the attention it deserves.\n\nI would not normally make such a request, but I want to ensure that I submit quality work rather than rushing. Even one or two additional days would be a great help.\n\nThank you for your understanding.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "assignment_extension",
+    "input": "My computer crashed and I lost most of my assignment progress. I need to ask my professor for an extension to redo the work.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask for an extension on the current assignment due to an unfortunate technical issue. My computer crashed unexpectedly, and I lost a significant portion of the work I had completed.\n\nI have since recovered what I could and am working to rebuild the rest, but I am not confident I can produce my best work by the original deadline. I would greatly appreciate even a brief extension.\n\nThank you for your understanding.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "lecture_recording_issue",
+    "input": "I cannot find the recording of Tuesday's online lecture and want to ask my professor whether it has been uploaded.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask whether the recording of Tuesday's online lecture has been uploaded.\n\nI was able to find the previous lecture recordings, but I could not locate the recording for Tuesday's class. Could you please let me know if it has not been uploaded yet, or if there may be an issue on my side?\n\nThank you for your time.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "lecture_recording_issue",
+    "input": "The audio quality of the uploaded lecture recording is very poor and hard to follow. I want to let my professor know.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to let you know that the audio quality in the lecture recording uploaded for this week appears to be quite poor, making it difficult to follow the content clearly.\n\nI wanted to bring this to your attention in case it can be re-uploaded or supplemented with additional materials. I appreciate any help you can provide.\n\nThank you for your time.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "lecture_recording_issue",
+    "input": "The lecture recording seems to have been cut off partway through and I was not able to watch the full class. I want to ask my professor about it.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing because the lecture recording for [date] appears to have been cut off before the class ended. I was only able to watch approximately the first half of the session.\n\nCould you let me know whether a complete version will be made available, or if there are notes or slides covering the portion I was unable to see?\n\nThank you for your help.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "lecture_recording_issue",
+    "input": "I was present in class but the live stream was unstable and I missed part of the lecture. I want to ask my professor if a recording is available.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing because I experienced an unstable connection during today's live-streamed lecture and missed a portion of the content.\n\nI was attending online and doing my best to follow along, but the stream dropped several times. I was wondering if a recording will be made available so I can fill in the gaps I missed.\n\nThank you for your understanding.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "course_material_question",
+    "input": "I want to ask my professor where I can find the lecture slides or course materials for this week's class.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask where I can find the lecture slides or course materials for this week's class.\n\nI checked the course website, but I was not able to locate them. Could you please let me know where they are available?\n\nThank you for your help.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "course_material_question",
+    "input": "I want to ask my professor which readings on the syllabus are required versus optional.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask for clarification on the assigned readings listed in the syllabus.\n\nI want to make sure I am focusing my time appropriately and would like to know which readings are required for all students and which are optional or supplementary. Thank you for helping me plan my study schedule.\n\nThank you for your time.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "course_material_question",
+    "input": "I want to ask my professor whether I need to purchase the textbook or if there is a way to access it through the library.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask about the required textbook for this course. I noticed that it is listed on the syllabus and wanted to confirm whether purchasing it is necessary, or whether it is accessible through the university library or another resource.\n\nI want to make sure I have access to all the materials I need without delay.\n\nThank you for your guidance.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "course_material_question",
+    "input": "My professor mentioned supplementary materials during class but they have not been posted online yet. I want to ask when they will be available.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask about the supplementary materials you mentioned during last week's class.\n\nI have been checking the course portal regularly but have not yet seen them posted. Could you let me know when they might be available, or whether I should be looking somewhere else?\n\nThank you for your time.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "exam_question",
+    "input": "I want to ask my professor about the scope and format of the upcoming midterm exam.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask about the scope and format of the upcoming midterm exam.\n\nCould you please let me know which chapters or topics will be included, and whether the exam will mainly consist of problem-solving questions, short-answer questions, or written explanations?\n\nThank you for your guidance.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "exam_question",
+    "input": "I want to ask my professor whether the final exam will be held in-person or online this semester.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask whether the final exam will be conducted in-person or online this semester.\n\nI would like to prepare appropriately and want to make sure I have the correct information regarding the format and location. Please let me know if there are any specific instructions I should be aware of.\n\nThank you for your time.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "exam_question",
+    "input": "I want to ask my professor if there will be a practice exam or past papers available to help prepare for the upcoming test.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask whether any practice exams or past papers are available for the upcoming test.\n\nI am studying diligently and believe that reviewing previous exam materials would help me better understand the expected format and difficulty level. If any such resources are available, I would greatly appreciate being directed to them.\n\nThank you for your guidance.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "exam_question",
+    "input": "I want to ask my professor whether any materials such as notes or formula sheets are permitted during the exam.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask about the exam policy regarding permitted materials.\n\nSpecifically, I would like to know whether students are allowed to bring notes, a formula sheet, or any reference materials to the exam. Having this information in advance will help me prepare in the most effective way.\n\nThank you for your time.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "makeup_exam_request",
+    "input": "I missed the midterm exam due to a medical emergency and want to ask my professor if I can take a makeup exam.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to inform you that I was unfortunately unable to attend the midterm exam due to a medical emergency.\n\nI have attached supporting documentation for your reference. I sincerely apologize for the disruption and would like to ask whether it would be possible to arrange a makeup exam at a time that is convenient for you.\n\nThank you for your consideration.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "makeup_exam_request",
+    "input": "I had a transportation issue on exam day and arrived too late to take the test. I would like to ask if there is any possibility of a makeup.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to apologize for missing the exam on [date] due to an unexpected transportation issue that caused me to arrive after the exam had ended.\n\nI understand this situation is difficult to accommodate, and I take full responsibility for not arriving on time. However, if there is any possibility of a makeup opportunity, I would be deeply grateful.\n\nThank you for your understanding.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "makeup_exam_request",
+    "input": "I experienced a serious mental health crisis around the exam date and was unable to take the test. I want to ask my professor about a makeup option.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing regarding the exam I was unable to take on [date]. I was experiencing a significant mental health difficulty at that time, which made it impossible for me to attend.\n\nI have since sought support and am in a more stable place. If it is at all possible to arrange a makeup exam, I would be very grateful. I am happy to provide documentation from a counselor if that would be helpful.\n\nThank you for your compassion and understanding.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "makeup_exam_request",
+    "input": "I had a bereavement in my family during the exam period and missed the test. I want to ask my professor how to handle this.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to let you know that I was unable to take the exam on [date] due to the passing of a close family member.\n\nThis was an unexpected and very difficult time for my family, and I was unable to be present. I would be very grateful if you could let me know whether a makeup exam or an alternative arrangement is possible. I can provide relevant documentation upon request.\n\nThank you for your kindness and understanding.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "meeting_request",
+    "input": "I want to ask my professor if I can meet during office hours to discuss difficulties I am having with the course material.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask whether it would be possible to meet during your office hours to discuss some difficulties I am having with the course material.\n\nI have been reviewing the lectures and assignments, but I still have questions about several concepts. I would appreciate the opportunity to ask for your guidance.\n\nThank you for your time.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "meeting_request",
+    "input": "I want to schedule a meeting with my professor to discuss my career path and get advice on graduate school applications.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask whether I could schedule a meeting with you to discuss my academic and career direction, particularly regarding graduate school applications.\n\nYour expertise and experience in this field make your perspective especially valuable to me, and I would greatly appreciate any advice you could offer. Please let me know what time would be convenient for you.\n\nThank you for your time.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "meeting_request",
+    "input": "I would like to meet with my professor to get feedback on my term paper before the final submission deadline.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask whether it would be possible to schedule a brief meeting to receive feedback on my term paper draft before the final submission deadline.\n\nI have completed a first draft and would greatly value your input to ensure I am on the right track. I am available at your convenience and happy to work around your schedule.\n\nThank you for your time and guidance.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "meeting_request",
+    "input": "I cannot attend in-person office hours due to a schedule conflict and want to ask my professor if we can meet via video call instead.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask whether it would be possible to meet via video call instead of attending in-person office hours this week.\n\nI have an unavoidable conflict during your scheduled office hours and would not want to miss the opportunity to discuss a few questions I have. I am flexible with timing and happy to meet at whatever works best for you.\n\nThank you for your consideration.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "recommendation_letter",
+    "input": "I want to ask my professor if they would be willing to write a recommendation letter for my exchange program application.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask whether you would be willing to write a recommendation letter for my exchange program application.\n\nI understand that this may take your time, and I would be happy to provide my CV, transcript, application details, and any other materials that may be helpful.\n\nThank you very much for considering my request.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "recommendation_letter",
+    "input": "I want to ask my professor to write a recommendation letter for my graduate school application and need it within three weeks.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask whether you would be willing to write a recommendation letter in support of my graduate school application.\n\nThe deadline is approximately three weeks from now, and I want to reach out as early as possible to respect your schedule. I would be glad to provide my personal statement, CV, and any other relevant materials to assist you.\n\nI truly appreciate your time and support.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "recommendation_letter",
+    "input": "I want to ask my professor for a recommendation letter for a scholarship application I am working on.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am currently applying for a scholarship and would be honored if you would consider writing a recommendation letter on my behalf.\n\nThe scholarship focuses on [brief description], and I believe your knowledge of my academic work would provide a strong endorsement. I will share all necessary details and materials as soon as you confirm your willingness to help.\n\nThank you very much for considering this request.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "recommendation_letter",
+    "input": "I am applying for a full-time job and want to ask my professor to serve as a professional reference.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am currently in the process of applying for a full-time position and would like to ask whether you would be willing to serve as a professional reference on my behalf.\n\nI have greatly benefited from your course and believe your perspective on my abilities would be genuinely valuable to a prospective employer. I will happily share the job description and any relevant information to help you.\n\nThank you very much for your time and support.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "grade_inquiry",
+    "input": "I want to politely ask my professor if I can review the grading of my recent assignment.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask whether it would be possible to review the grading of my recent assignment.\n\nI would like to better understand the parts where I lost points so that I can improve my work in the future. I do not intend to challenge the grading, but I would appreciate any feedback you could provide.\n\nThank you for your time and guidance.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "grade_inquiry",
+    "input": "I received a lower grade than expected on my midterm and want to politely ask my professor to clarify how it was graded.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing regarding my midterm exam grade. I was surprised by the result and would like to better understand how my answers were evaluated.\n\nI am not contesting the grade, but I would appreciate any clarification or feedback so that I can identify areas for improvement and perform better on future assessments.\n\nThank you for your time.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "grade_inquiry",
+    "input": "My final grade has been posted but I think there may be an error, and I want to ask my professor about it.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing because I noticed that my final grade has been posted, and I believe there may be a discrepancy that I would like to clarify.\n\nI have carefully reviewed my scores on the assignments and exams, and the total does not appear to match the posted grade. I would greatly appreciate it if you could take a moment to review this at your convenience.\n\nThank you for your assistance.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "grade_inquiry",
+    "input": "I am not sure how my participation grade was determined and want to ask my professor to explain.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask for some clarification regarding my participation grade for this course.\n\nI made consistent efforts to engage during class, and I am curious about how participation was assessed. Understanding your evaluation criteria would help me better prepare for future courses. I appreciate any feedback you are able to share.\n\nThank you for your time.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "lab_research_inquiry",
+    "input": "I want to ask a professor whether undergraduate students can participate in research opportunities in their lab.",
+    "output": "Dear Professor,\n\nI hope you are doing well. My name is ooo, and I am an undergraduate student interested in your research area.\n\nI am writing to ask whether there are any research opportunities available for undergraduate students in your lab. I would be grateful for the opportunity to learn more about your work and contribute if possible.\n\nThank you for your time and consideration.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "lab_research_inquiry",
+    "input": "I am interested in a professor's research and want to express my interest in joining their lab as a graduate student.",
+    "output": "Dear Professor,\n\nI hope you are doing well. My name is ooo, and I am a prospective graduate student with a strong interest in your research on [topic].\n\nAfter reading several of your recent publications, I am genuinely excited about the direction of your work and would love the opportunity to contribute to it. I am writing to inquire whether you are currently accepting new graduate students and, if so, whether my background might be a good fit.\n\nI have attached my CV for your reference and would welcome the chance to speak with you further.\n\nThank you for your time and consideration.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "lab_research_inquiry",
+    "input": "I want to ask a professor if I can join their lab as a research assistant over the summer.",
+    "output": "Dear Professor,\n\nI hope you are doing well. My name is ooo, and I am currently a [year] student majoring in [major]. I am writing to ask whether you have any openings for a research assistant in your lab this summer.\n\nI am eager to gain hands-on research experience and am particularly interested in the work your lab is conducting. I am a quick learner and would be committed to contributing meaningfully during my time with the team.\n\nThank you for your consideration. I would be happy to provide my CV or any other information upon request.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "lab_research_inquiry",
+    "input": "I want to ask my professor whether I can earn academic credit for participating in their lab as a research assistant.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask whether it would be possible to participate in research in your lab for academic credit this semester.\n\nI am very interested in gaining research experience and have been following your work with great interest. If an arrangement for credit-bearing research participation is available, I would love to discuss how I might contribute in a meaningful way.\n\nThank you for your time and guidance.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "late_submission_apology",
+    "input": "I need to apologize to my professor for submitting an assignment late and ask if it can still be accepted.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I sincerely apologize for submitting the assignment after the deadline.\n\nI understand that late submission may not be accepted according to the course policy. However, if there is any possibility for the assignment to still be considered, I would be very grateful.\n\nI apologize again for the delay and will make sure this does not happen again.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "late_submission_apology",
+    "input": "I submitted the wrong file for my assignment and realized it only after the deadline. I want to apologize and ask if I can resubmit.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to sincerely apologize for an error in my recent submission. I accidentally uploaded the wrong file and only realized this after the deadline had passed.\n\nI have completed the correct assignment and would like to ask whether there is any possibility of resubmitting it. I understand if this is not possible given the course policy, and I deeply apologize for the inconvenience.\n\nThank you for your understanding.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "late_submission_apology",
+    "input": "I missed the assignment deadline because I misread the due date. I want to apologize and ask if late submission is possible.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to sincerely apologize for missing the assignment deadline. I had mistakenly noted the wrong due date in my planner and did not realize the error until after the deadline had passed.\n\nI have since completed the assignment and would like to ask whether a late submission might still be accepted, even with a grade penalty. I take full responsibility for this mistake and assure you it will not happen again.\n\nThank you for your time and understanding.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "late_submission_apology",
+    "input": "My internet connection went down on the day the assignment was due and I was unable to submit on time. I want to let my professor know and ask how to proceed.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to apologize for not submitting my assignment on time. Unfortunately, my internet connection went down unexpectedly on the day of the deadline, and I was unable to upload my work.\n\nI completed the assignment before the deadline and can share a screenshot showing the timestamp if that would be helpful. Please let me know how I should proceed.\n\nThank you for your understanding.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "syllabus_clarification",
+    "input": "I am confused about the attendance policy in the course syllabus and want to ask my professor for clarification.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask for clarification regarding the attendance policy outlined in the course syllabus.\n\nI want to make sure I fully understand the expectations so that I can plan accordingly. Specifically, I would like to know whether absences for school-related activities are treated differently from unexcused absences.\n\nThank you for your help.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "syllabus_clarification",
+    "input": "I am unsure about how the final grade is calculated based on the syllabus and would like my professor to explain.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask for some clarification regarding the grading breakdown listed in the course syllabus.\n\nI want to make sure I understand how each component — such as assignments, participation, and exams — contributes to the final grade. Could you help me understand the weighting system when you have a moment?\n\nThank you for your guidance.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "syllabus_clarification",
+    "input": "The syllabus mentions a final project but I am unsure whether it is an individual or group assignment. I want to ask my professor for clarification.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask for clarification regarding the final project described in the course syllabus.\n\nI would like to know whether the project is intended to be completed individually or in groups, and if groups are allowed, whether we can form them ourselves or if they will be assigned. Having this information early will help me plan accordingly.\n\nThank you for your help.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "syllabus_clarification",
+    "input": "I want to ask my professor what the late submission penalty is, as it is not clearly stated in the syllabus.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask about the late submission policy for this course, as I was not able to find a clear description in the syllabus.\n\nSpecifically, I would like to know whether late work is accepted and, if so, whether there is a point deduction per day. Understanding this policy will help me manage my time more effectively throughout the semester.\n\nThank you for your clarification.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "presentation_reschedule",
+    "input": "I have a scheduling conflict on the day of my class presentation and want to ask if I can present on a different date.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask whether it would be possible to reschedule my presentation, which is currently scheduled for [date].\n\nUnfortunately, I have an unavoidable conflict on that day and would not be able to present at my best. I would be grateful if I could present on an alternative date, and I am happy to go first or last to minimize any disruption to the schedule.\n\nThank you for your consideration.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "presentation_reschedule",
+    "input": "I fell ill right before my scheduled presentation and cannot attend class. I want to ask my professor if I can present next week instead.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to let you know that I have unfortunately fallen ill and will not be able to attend class on the day of my scheduled presentation.\n\nI would like to ask whether it would be possible to present during the following class session instead. I sincerely apologize for the short notice and any inconvenience this may cause.\n\nThank you for your understanding.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "presentation_reschedule",
+    "input": "I am currently near the end of the presentation schedule and want to ask my professor if I can go earlier instead.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask whether it might be possible to move my presentation slot to an earlier date in the schedule.\n\nI have already completed my preparation and would feel more comfortable presenting sooner. If an earlier slot becomes available or if another student is willing to swap, I would greatly appreciate the opportunity.\n\nThank you for your consideration.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "presentation_reschedule",
+    "input": "I experienced serious technical issues during my online presentation that disrupted it significantly. I want to ask my professor if I can redo it.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to follow up on my online presentation, which unfortunately experienced significant technical difficulties that disrupted both my delivery and the audience's experience.\n\nMy audio and screen share failed at several key points, and I was not able to present the content as intended. I would like to ask whether there is any possibility of being allowed to redo the presentation or to submit a recorded version.\n\nThank you for your understanding.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "group_project_issue",
+    "input": "A member of my group project is not contributing and I want to ask my professor how to handle the situation.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask for your advice regarding a challenge I am facing with my group project.\n\nDespite our best efforts to communicate and coordinate, one member of our group has not been contributing to the project. We have tried to reach out multiple times without success. I wanted to bring this to your attention and ask for guidance on how to proceed in a fair and constructive way.\n\nThank you for your time.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "group_project_issue",
+    "input": "My group members and I have a disagreement about the direction of our project and I want to ask my professor for guidance.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to seek your advice regarding a disagreement within my project group about the overall direction of our work.\n\nWe have differing opinions on the scope and approach, and we want to make sure our project aligns with your expectations before we proceed. Would it be possible to briefly consult with you so we can move forward effectively?\n\nThank you for your support.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "group_project_issue",
+    "input": "I am having a serious personality conflict with a member of my assigned group and want to ask my professor if I can switch groups.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask whether it might be possible to change my group assignment for the project.\n\nI have been experiencing a significant interpersonal difficulty with one of my current group members that is affecting our ability to work together productively. I have made a genuine effort to resolve the situation but have not been successful. I would be very grateful if you could advise me on how to best handle this.\n\nThank you for your time and understanding.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "group_project_issue",
+    "input": "I am concerned about the quality of work my group members are contributing and worry it will negatively affect my grade. I want to ask my professor about individual grading options.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask whether there is any provision for individual grading within our group project.\n\nI have been putting significant effort into my contributions, but I am concerned that the overall quality of our group's work does not reflect my individual performance. I would greatly appreciate knowing whether individual contributions are taken into account in the final evaluation.\n\nThank you for your guidance.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "course_content_question",
+    "input": "I have a question about a concept explained in last week's lecture that I did not fully understand.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing because I had some difficulty fully understanding a concept introduced in last week's lecture.\n\nSpecifically, I am unclear about [topic/concept]. I reviewed my notes and the course materials, but I would appreciate a brief clarification if you have the time. I want to make sure I have a solid understanding before we move on to related topics.\n\nThank you for your help.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "course_content_question",
+    "input": "I want to ask my professor to recommend additional textbooks or resources to deepen my understanding of the course topic.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask if you could recommend any additional textbooks or reading materials related to this course.\n\nI find the subject very engaging and would like to explore it further beyond the required readings. Even a short list of books or online resources that you personally find valuable would be greatly appreciated.\n\nThank you for your time.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "course_content_question",
+    "input": "I am confused about how a theorem or formula introduced in class is applied to real problems. I want to ask my professor for a worked example.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing because I am struggling to understand how to apply the [theorem/formula] we covered in class to actual problems.\n\nI understand the concept in isolation, but I find it difficult to connect it to the problem sets. If possible, could you walk me through a worked example, or point me to one in the course materials? I want to make sure I can apply it correctly going forward.\n\nThank you for your help.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "course_content_question",
+    "input": "I want to ask my professor how the concepts covered in this course are applied in real-world or professional settings.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask whether you could shed some light on how the concepts we are studying in this course are applied in real-world or professional contexts.\n\nI find the theoretical material very interesting and believe that understanding its practical applications would deepen my engagement with the subject. Even a brief example or reference would be very helpful.\n\nThank you for your time.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "internship_career_advice",
+    "input": "I want to ask my professor for advice on how to find a good internship related to my major.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am currently exploring internship opportunities related to my major and would value your advice.\n\nAs someone with extensive experience in this field, I thought you might have helpful insights on where to look, what skills to prioritize, or how to approach the application process. I would greatly appreciate any guidance you could offer, whether during office hours or at your convenience.\n\nThank you for your time.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "internship_career_advice",
+    "input": "I have been offered two internship opportunities and I am unsure which one to choose. I want to ask my professor for advice.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask for your advice on a decision I am currently facing. I have been fortunate to receive offers from two internship programs and I am having difficulty choosing between them.\n\nGiven your knowledge of the industry, I would greatly value your perspective. Would it be possible to schedule a brief conversation during your office hours? I would be happy to share the details of both opportunities.\n\nThank you for your time and guidance.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "internship_career_advice",
+    "input": "I want to ask my professor how they got started in their career and what path led them to academia.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am at a point in my studies where I am beginning to think seriously about my career direction, and I find your professional background very inspiring.\n\nI was wondering if you would be willing to share a bit about how you got started in your field and what led you to pursue an academic career. I am curious whether your path might offer some guidance as I consider my own options.\n\nThank you for your time.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "internship_career_advice",
+    "input": "I want to ask my professor what technical skills or experiences are most valued by employers in our field right now.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am currently working on building my skillset in preparation for entering the job market and wanted to ask for your perspective.\n\nFrom your experience and knowledge of the industry, could you share what technical skills, tools, or types of experience employers in our field currently prioritize? I want to make sure I am investing my time in the right areas.\n\nThank you for your guidance.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "thesis_inquiry",
+    "input": "I am starting to think about my thesis topic and want to ask my professor if they would be willing to serve as my advisor.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am beginning to plan for my thesis and am writing to ask whether you would be willing to serve as my thesis advisor.\n\nYour research interests closely align with the topic I am considering, and I believe your guidance would be invaluable to my work. I would be glad to share my preliminary ideas and discuss whether this would be a good fit for both of us.\n\nThank you for your consideration.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "thesis_inquiry",
+    "input": "I want to ask my thesis advisor for feedback on my research proposal before I submit it.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I have completed a draft of my research proposal and would appreciate your feedback before I finalize and submit it.\n\nI want to make sure the scope and direction are appropriate, and your input would be extremely helpful at this stage. Please let me know when you might have time to review it, and I will send it over right away.\n\nThank you for your continued support.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "thesis_inquiry",
+    "input": "I have two possible thesis topics in mind and want to ask my professor which one they think is more feasible.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am currently narrowing down my thesis topic and have two ideas I am seriously considering. I would greatly value your expert perspective on which direction might be more feasible and academically valuable.\n\nWould it be possible to schedule a brief meeting to discuss them? I can share a short summary of each idea in advance if that would be helpful.\n\nThank you for your guidance.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "thesis_inquiry",
+    "input": "I want to check in with my thesis advisor about my progress and confirm that I am on the right track.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to give you a brief update on my thesis progress and to confirm that my current direction aligns with your expectations.\n\nI have completed [brief summary of progress] and am planning to move on to [next step]. I wanted to check in with you before proceeding to ensure I have not overlooked anything important.\n\nPlease let me know if you have any concerns or suggestions at this stage.\n\nThank you for your continued support.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "online_platform_issue",
+    "input": "I am having technical difficulties accessing the course page on the learning management system and want to let my professor know.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to inform you that I have been experiencing technical difficulties accessing the course page on [platform name].\n\nI have tried logging out and back in, as well as using a different browser, but the issue persists. I wanted to let you know in case this affects my ability to access assignments or materials. I have also contacted the IT support team, but wanted to inform you directly.\n\nThank you for your understanding.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "online_platform_issue",
+    "input": "I tried to submit my assignment through the online portal but the system gave me an error. I want to inform my professor and ask how to proceed.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to let you know that I encountered an error when attempting to submit my assignment through the course portal.\n\nI attempted to submit before the deadline, but the system displayed an error message and the submission did not go through. I have taken a screenshot of the error and would like to ask how I should proceed to ensure my work is received on time.\n\nThank you for your help.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "online_platform_issue",
+    "input": "My microphone and camera are not working during online class and I want to let my professor know so they are not confused by my silence.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to let you know that I am currently experiencing technical issues with my microphone and camera, which are preventing me from participating verbally in our online class sessions.\n\nI am actively working to resolve the issue, but I wanted to inform you in advance so that my lack of audio and video is not mistaken for disengagement. I am following along and participating through the chat function whenever possible.\n\nThank you for your understanding.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "online_platform_issue",
+    "input": "I lost access to the course on the online platform after the add/drop period and cannot see any materials. I want to inform my professor.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to let you know that I appear to have lost access to the course on [platform name] and am currently unable to view any course materials, announcements, or assignments.\n\nI am enrolled in the course and have not made any changes to my registration. I have reached out to the registrar's office as well, but wanted to inform you directly in case there is something that needs to be corrected on your end.\n\nThank you for your assistance.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "office_hours_confirmation",
+    "input": "I want to confirm whether my professor's office hours are still being held this week or have changed.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to confirm whether your office hours this week will be held at the usual time and location.\n\nI would like to stop by if possible, but I wanted to check first in case there have been any changes to your schedule this week.\n\nThank you for your time.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "office_hours_confirmation",
+    "input": "I want to ask my professor whether there is an option to attend office hours online rather than in person.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask whether your office hours are available online as well as in person.\n\nI live off-campus and would find it easier to connect via video call on some occasions. If a virtual option is available, could you please let me know how to access it?\n\nThank you for your consideration.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "office_hours_confirmation",
+    "input": "I want to ask my professor if I can make an appointment to meet outside of regular office hours.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask whether it would be possible to arrange a meeting outside of your regular office hours.\n\nI have a recurring class conflict that prevents me from attending during your scheduled office hours, but I have questions I would very much like to discuss with you. I am flexible and happy to meet at any time that works for you.\n\nThank you for your time and understanding.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "office_hours_confirmation",
+    "input": "I visited my professor's office during their posted office hours but they were not there. I want to follow up by email.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I stopped by your office earlier today during your posted office hours, but was not able to find you. I wanted to reach out in case there was a change I was not aware of.\n\nI have a few questions I would like to discuss when you have time. Please let me know a convenient time to meet, and I will make sure to be available.\n\nThank you for your time.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "course_registration",
+    "input": "I want to ask my professor to sign off on my enrollment in their advanced course even though I have not completed the listed prerequisite.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask whether you would be willing to grant me permission to enroll in your course despite not having formally completed the listed prerequisite.\n\nI am confident that my background in [related area] has provided me with the foundational knowledge required to succeed in the course. I would be happy to speak with you briefly to demonstrate my preparation if that would be helpful.\n\nThank you for your consideration.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "course_registration",
+    "input": "I am on the waitlist for my professor's course and want to ask if there is a chance I will be able to enroll.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am currently on the waitlist for your course this semester and am writing to ask whether there is a possibility of being admitted.\n\nI am genuinely interested in the subject and have been looking forward to taking this course. If any spots become available, I would be very grateful to be considered. I can also provide any additional information you might need.\n\nThank you for your time.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "course_registration",
+    "input": "I want to ask my professor if I can audit their course without enrolling for credit.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask whether you would permit me to audit your course this semester.\n\nI am very interested in the subject matter but am not in a position to take the course for credit at this time. I would attend all sessions and engage with the material fully, but without completing graded assessments. Please let me know if this would be acceptable.\n\nThank you for your consideration.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "course_registration",
+    "input": "I want to ask my professor if they offer an independent study option related to their area of expertise.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask whether you would be open to supervising an independent study course related to your area of expertise.\n\nI have a specific topic I am interested in exploring in depth, and I believe it aligns well with your research focus. I would be happy to propose a reading list, schedule, and deliverables if you are interested in discussing the possibility further.\n\nThank you for your time and consideration.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "participation_grade",
+    "input": "I am a quiet student and worry that my lack of verbal participation will hurt my grade. I want to ask my professor if there are other ways to demonstrate engagement.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask about the participation component of the course grade.\n\nI tend to be reserved in classroom discussions, though I am deeply engaged with the material and consistently complete all readings and assignments. I wanted to ask whether there are alternative ways to demonstrate participation, such as written reflections or additional contributions outside of class.\n\nThank you for your understanding and flexibility.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "participation_grade",
+    "input": "I take the course online and am unsure how participation is graded for remote students. I want to ask my professor for clarification.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask how participation is evaluated for students attending this course online.\n\nI want to make sure I am meeting expectations and contributing in the way you intend, but I am uncertain whether online chat contributions, forum posts, or other forms of engagement are counted toward the participation grade. Any clarification would be very helpful.\n\nThank you for your time.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "participation_grade",
+    "input": "I want to ask my professor for feedback on how I have been participating so far this semester.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask whether you could share any feedback on my class participation so far this semester.\n\nI have been making an effort to contribute to discussions and engage with the material, but I want to make sure my participation is meeting your expectations. Any specific feedback on how I can improve would be very welcome.\n\nThank you for your time.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "participation_grade",
+    "input": "English is not my first language and I find it difficult to participate verbally in class. I want to ask my professor if this will be taken into account.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to share something that I hope you will understand. As a non-native English speaker, I sometimes find it difficult to participate verbally in class discussions at the pace of a native speaker, even when I am following the content closely.\n\nI wanted to let you know about this challenge and ask whether there are any alternative ways for me to demonstrate my engagement and understanding. I am fully committed to the course and want to do my best.\n\nThank you for your understanding.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "extra_credit",
+    "input": "My grade is borderline and I want to ask my professor if there are any extra credit opportunities available.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask whether there are any extra credit opportunities available in this course.\n\nI have been putting in significant effort this semester and would like the chance to strengthen my performance before the final grade is determined. I am willing to take on additional readings, a reflection paper, or any other task you might consider appropriate.\n\nThank you for your time and consideration.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "extra_credit",
+    "input": "I completed an extra credit assignment and want to ask my professor how and when to submit it.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I have completed the extra credit assignment and wanted to confirm the best way to submit it.\n\nI am not sure whether I should upload it through the course portal, send it via email, or hand it in during class. Additionally, could you let me know by when it needs to be submitted? I want to make sure I follow the correct procedure.\n\nThank you for your help.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "extra_credit",
+    "input": "I am a new student who missed the beginning of the semester and want to ask if there are any extra credit options to compensate for early missed work.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I enrolled in this course a bit later than the other students and unfortunately missed some early assignments and activities as a result.\n\nI have been working hard to catch up and am fully engaged now. I wanted to ask whether there are any extra credit opportunities that might help compensate for the work I missed at the start of the semester.\n\nThank you for your understanding.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "extra_credit",
+    "input": "I want to ask my professor if I can do any additional readings or a written response to improve my understanding and potentially my grade.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask whether it might be possible to complete additional work, such as a reading response or short essay, in order to deepen my understanding of the course material.\n\nI am genuinely invested in this subject and would welcome the chance to engage with it more thoroughly. If such contributions could also factor into my grade in any way, I would be especially grateful, but even without that, I would find the work valuable.\n\nThank you for your consideration.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "course_withdrawal",
+    "input": "I am considering withdrawing from a course due to personal difficulties and want to ask my professor for advice before making a decision.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask for your advice regarding a difficult decision I am facing.\n\nDue to some personal circumstances this semester, I have been struggling to keep up with the course workload, and I am considering whether withdrawal might be the right choice. Before making a final decision, I wanted to hear your perspective and understand any implications it might have for my standing in the program.\n\nThank you for your guidance.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "course_withdrawal",
+    "input": "I have decided to withdraw from a course and want to inform my professor and ask about any remaining responsibilities.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to inform you that I have decided to withdraw from your course this semester.\n\nThis was not an easy decision, and I genuinely enjoyed the material and your teaching. I wanted to reach out personally to let you know, and to ask whether there are any formalities on my end I need to complete before the withdrawal is processed.\n\nThank you for the learning experience.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "course_withdrawal",
+    "input": "I want to ask my professor what the difference is between a WP and WF on my transcript if I withdraw now.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am currently considering whether to withdraw from this course and have a question regarding my academic record.\n\nCould you clarify the difference between a Withdrawal Passing (WP) and a Withdrawal Failing (WF), and whether my current standing in the course would result in one or the other? Understanding this distinction will help me make a more informed decision.\n\nThank you for your guidance.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "course_withdrawal",
+    "input": "I am worried that withdrawing from a course might affect my financial aid or scholarship. I want to ask my professor if they have any advice.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I am writing to ask for your advice regarding a concern related to course withdrawal.\n\nI have been struggling in this course and am considering withdrawing, but I am worried about the potential impact on my financial aid or scholarship status. I understand this may be something to confirm with the financial aid office, but I wanted to ask whether you have any advice or awareness of how this process typically works.\n\nThank you for your time and support.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "lecture_content_feedback",
+    "input": "I really enjoyed a recent guest lecture in class and want to express my appreciation to my professor.",
+    "output": "Dear Professor,\n\nI hope you are doing well. I wanted to take a moment to express how much I enjoyed the guest lecture you arranged for our class.\n\nThe speaker's insights were both thought-provoking and highly relevant to our coursework, and it was a memorable learning experience. Thank you for putting together such an enriching opportunity for us.\n\nSincerely,\nooo"
+  },
+  {
+    "category": "introduction_email",
+    "input": "It is the first week of the semester and I want to introduce myself to a professor whose class I just enrolled in.",
+    "output": "Dear Professor,\n\nI hope you are doing well. My name is ooo, and I am enrolled in your course this semester.\n\nI wanted to take a moment to introduce myself and express how much I am looking forward to the course. I have a strong interest in [relevant area] and am eager to learn from your expertise. Please do not hesitate to let me know if there is anything I should do to prepare before the next class.\n\nThank you for your time.\n\nSincerely,\nooo"
+  }
+]
