@@ -4,15 +4,16 @@ This project is a simple prototype that generates polite academic emails from st
 
 ## Features
 - Converts informal user input into formal academic email
-- Uses instruction-tuned LLM (Qwen)
-- Few-shot prompting for improved quality
+- Uses instruction-tuned LLM 
+- RAG combined Few-shot prompting for improved quality
+  
 
 ## Example
 
-**Input(in Korean)**
+**Input(in English)**
 Write a polite email to Professor Soo-min Lee about missing class next week.
 
-**Output(in Korean)**
+**Output(in English)**
 (Generated email)
 
 ## Conclusion
